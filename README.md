@@ -1,7 +1,7 @@
 ```markdown
 Kite Connect Trading Automation
 
- Overview
+Overview
 
 Kite Connect Trading Automation is a sophisticated, JavaScript-based application designed to streamline stock trading operations by integrating with Zerodha's Kite Connect API. This project empowers users to automate buy and sell transactions seamlessly through a robust server infrastructure, leveraging the power of the Kite Connect API and a custom-built Master Control Program (MCP) server. With advanced tooling and intuitive prompt-based interactions, the system enables precise execution of trading strategies, such as purchasing stocks like MRF with a single command.
 
