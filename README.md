@@ -35,8 +35,8 @@ To set up and run this project, ensure you have the following:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/kite-connect-trading-automation.git
-   cd kite-connect-trading-automation
+   git clone https://github.com/nithingadam/zerodhaAPI.git
+   cd zerodhaAPI
    ```
 
 3. **Install Dependencies**:
@@ -87,7 +87,7 @@ To set up and run this project, ensure you have the following:
 ## Project Structure
 
 ```
-kite-connect-trading-automation/
+zerodhaAPI/
 ├── server.js             # Main JavaScript server for Kite Connect API integration
 ├── mcp-server.js         # MCP server for buy/sell functionalities
 ├── .env                  # Environment variables (API credentials)
@@ -114,21 +114,5 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions, suggestions, or support, reach out via [your-email@example.com](mailto:your-email@example.com) or open an issue on the GitHub repository.
-
----
-
 Happy Trading! 🚀
 ```
-
-### Notes:
-- This README is formatted in standard Markdown, ensuring compatibility with GitHub, GitLab, or other platforms that render `.md` files.
-- Replace `https://github.com/your-username/kite-connect-trading-automation.git` with the actual repository URL and `your-email@example.com` with your contact email.
-- If you have specific details (e.g., additional dependencies, exact Claude integration steps, or a real license file), let me know, and I can refine the content further.
-- The structure includes all essential sections for a professional README, with clear instructions and a polished tone.
